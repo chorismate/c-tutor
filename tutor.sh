@@ -1,1 +1,3 @@
 #!/bin/dash
+
+. ./config.sh
