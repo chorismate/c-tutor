@@ -1,0 +1,3 @@
+Your task is to print "Hello, ", followed by a name (given via command-line arguments), followed by an exclamation mark.
+
+Be careful about memory safety - if your program is given the wrong number of arguments, do not attempt to read memory out of bounds.
